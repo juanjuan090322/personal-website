@@ -1,0 +1,60 @@
+{
+  "position": "Frontend Engineer",
+  "name": "Li Wenjuan",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects"
+  },
+  "home": {
+    "intro": "I am a frontend engineer focused on building high-performance and user-friendly web applications with modern frontend technology stack."
+  },
+  "about": {
+    "title": "Profile",
+    "description": "I am a frontend engineer graduated from Beijing Union University with a major in Software Engineering. As a member of the Communist Party of China, I always maintain a positive and proactive work attitude.",
+    "experience": "With years of frontend development experience, proficient in modern frontend technology stack."
+  },
+  "skills": {
+    "title": "Skills",
+    "frontend": {
+      "title": "Frontend"
+    },
+    "frameworks": {
+      "title": "Frameworks"
+    },
+    "tools": {
+      "title": "Tools"
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "intro": "Here are some major projects I have participated in, showcasing my skills and experience in frontend development.",
+    "viewDetails": "View Details",
+    "1": {
+      "title": "Enterprise Management System",
+      "description": "A modern enterprise management system based on Vue 3, including multiple subsystems and complex business logic processing."
+    },
+    "2": {
+      "title": "Resource Planning System",
+      "description": "A resource planning and visualization system developed with Vue 3 and AntV G6, supporting real-time data updates and complex graphics display."
+    },
+    "3": {
+      "title": "Data Visualization Platform",
+      "description": "A data visualization platform based on React and ECharts, supporting various chart types and data export functionality."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "email": "liwenjuan@example.com",
+    "phone": "+86 123 4567 8901"
+  },
+  "donate": {
+    "title": "Donate",
+    "description": "If you find my projects helpful, feel free to support me",
+    "wechat": "WeChat Pay",
+    "alipay": "Alipay"
+  },
+  "footer": {
+    "rights": "All Rights Reserved"
+  }
+} 

@@ -1,0 +1,13 @@
+{
+  "contact": {
+    "title": "Contact",
+    "phone": "+86 123 4567 8901",
+    "email": "your.email@example.com"
+  },
+  "donate": {
+    "title": "Donate",
+    "description": "If you find my projects helpful, feel free to support my work through the following methods",
+    "wechat": "WeChat Pay",
+    "alipay": "Alipay"
+  }
+} 

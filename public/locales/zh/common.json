@@ -1,0 +1,60 @@
+{
+  "position": "前端开发工程师",
+  "name": "李汶娟",
+  "nav": {
+    "home": "首页",
+    "about": "关于我",
+    "projects": "项目"
+  },
+  "home": {
+    "intro": "我是一名专注于前端开发的工程师，擅长使用现代前端技术栈构建高性能、用户友好的Web应用。"
+  },
+  "about": {
+    "title": "个人简介",
+    "description": "我是一名专注于前端开发的工程师，毕业于北京联合大学软件工程专业。作为一名中共党员，我始终保持积极进取的工作态度。",
+    "experience": "拥有多年的前端开发经验，精通现代前端技术栈。"
+  },
+  "skills": {
+    "title": "技能专长",
+    "frontend": {
+      "title": "前端技术"
+    },
+    "frameworks": {
+      "title": "框架"
+    },
+    "tools": {
+      "title": "工具"
+    }
+  },
+  "projects": {
+    "title": "项目",
+    "intro": "以下是我参与的一些主要项目，展示了我在前端开发方面的技能和经验。",
+    "viewDetails": "查看详情",
+    "1": {
+      "title": "企业管理系统",
+      "description": "基于 Vue 3 的现代化企业管理系统，包含多个子系统和复杂的业务逻辑处理。"
+    },
+    "2": {
+      "title": "资源规划系统",
+      "description": "使用 Vue 3 和 AntV G6 开发的资源规划和可视化系统，支持实时数据更新和复杂的图形展示。"
+    },
+    "3": {
+      "title": "数据可视化平台",
+      "description": "基于 React 和 ECharts 的数据可视化平台，支持多种图表类型和数据导出功能。"
+    }
+  },
+  "contact": {
+    "title": "联系方式",
+    "email": "liwenjuan@example.com",
+    "phone": "+86 123 4567 8901"
+  },
+  "donate": {
+    "title": "捐赠支持",
+    "description": "如果您觉得我的项目对您有帮助，欢迎赞赏支持",
+    "wechat": "微信支付",
+    "alipay": "支付宝"
+  },
+  "footer": {
+    "rights": "版权所有"
+  }
+} 

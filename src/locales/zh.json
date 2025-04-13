@@ -1,0 +1,13 @@
+{
+  "contact": {
+    "title": "联系方式",
+    "phone": "+86 123 4567 8901",
+    "email": "your.email@example.com"
+  },
+  "donate": {
+    "title": "赞助支持",
+    "description": "如果您觉得我的项目对您有帮助，欢迎通过以下方式赞助支持我的工作",
+    "wechat": "微信支付",
+    "alipay": "支付宝"
+  }
+} 
